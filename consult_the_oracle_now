@@ -1,0 +1,76 @@
+import random
+
+question = str(input("Type your question to Oracle: "))
+
+sixth = random.randint(6,9)
+fifth = random.randint(6,9)
+fourth = random.randint(6,9)
+third = random.randint(6,9)
+second = random.randint(6,9)
+first = random.randint(6,9)
+
+zbior = [sixth, fifth, fourth, third, second, first]
+
+def hex0(zbior):
+    for linie in zbior:
+        if linie == 9:
+            print("_o_")
+        elif linie == 8:
+            print("---")
+        elif linie == 7:
+            print("___")
+        elif linie == 6:
+            print("-x-")
+        else:
+            print("error")
+print("the original hexagram is:")
+hex0(zbior)
+
+print("\nAfter transforming of changing lines The First Hexagram will look as:")
+def hex1(zbior):
+    for linie in zbior:
+        if linie == 9:
+            print("___")
+        elif linie == 8:
+            print("---")
+        elif linie == 7:
+            print("___")
+        elif linie == 6:
+            print("---")
+        else:
+            print("error")
+hex1(zbior)
+
+print("\nAfter transforming of changing lines The 2nd Hexagram will look as:")
+def hex2(zbior):
+    for linie in zbior:
+        if linie == 9:
+            print("---")
+        elif linie == 8:
+            print("---")
+        elif linie == 7:
+            print("___")
+        elif linie == 6:
+            print("___")
+        else:
+            print("error")
+hex2(zbior)
+
+#TODO - CHANGING LINES
+print(f"Changing lines are following:")
+def change_line(zbior):
+    for linie in zbior:
+        if 6<linie<9:
+#             return [zbior] 
+            print(f"niezmienne")
+        else:
+            print(linie)
+change_line(zbior)
+
+
+
+#finalization
+print(f"\nyour question was:" +question+"\n")
+
+#test
+print("test to verify:","\n",sixth,"\n",fifth,"\n",fourth,"\n",third,"\n",second,"\n",first)
