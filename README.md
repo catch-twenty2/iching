@@ -7,20 +7,20 @@
 > *whatever man, we gotta roll with it.* <br>
 > --Vincent (Tom Cruise) in "Collateral"
 
-**Welcome to the insightful world of I Ching** – an ancient system of divination that offers invaluable insights into business, life matters, and the art of decision-making. It shares a unique perspective on the nature of change, the duality of existence, and the interconnectedness of all things. Iin the past it has intrigued scholars and thinkers for centuries. As an analyst with a deep interest in mental models, systems thinking, and change management, I explored the profound wisdom of I Ching for more than 10 years.
+**Welcome to the insightful world of I Ching** – an ancient system of divination that offers invaluable insights into business, life matters, and the art of decision-making. It shares a unique perspective on the nature of change, the duality of existence, and the interconnectedness of all things. In the past it has intrigued scholars and thinkers for centuries. As an analyst with a deep interest in mental models, systems thinking, and change management, I explored the profound wisdom of I Ching for more than 10 years.
 
 My method of casting resembles using three coins six times in order to generate six distinctive lines forming a hexagram. This is not the fast solution of generating one random number and in result can indicate which lines will change and how they affect the future outcome. As mystical as it may sound, this is so far the best key I found to unlock access to inner treasures of hidden thoughts. Otherwise decision-making and insights will be biassed too much by recent experiences.
 
 ## Using the Code
-1. You can download the Python code from this repo and run it directly in your environment. You don't need to write the full question actually, if you only want to get the hexagrams and explore the answers from suggested online resources. Then the links will be generated, and you will be instructed which hexagram and changing lines you should interpret. Still having a precise question formed before starting is essential for correct interpretation.
+1. You can download the Python code from this repo and run it directly in your environment or click on the link above to run it in Colab. You don't need to write the full question actually, if you only want to get the hexagrams and explore the answers from suggested online resources. Then the links will be generated, and you will be instructed which hexagram and changing lines you should interpret. Still having a precise question formed before starting is essential for correct interpretation.
 
-2. Additionally, the link will be generated to open personalized advice in Bing chat if you decide to provide your question in the first place. For that to work, however, you need to have installed the Edge browser, be logged in to your Microsoft account, and deliver the question in your prompt. Then, upon clicking the generated link, the question - along with selected hexagrams and changing lines - will be delivered directly to the chatbot. And there the personalized advice will be offered.
+2. Additionally, a link will be generated to open personalized advice in Bing chat if you decide to provide your question in the first place. For that to work, however, you need to have installed the Edge browser, be logged in to your Microsoft account, and deliver the question in your prompt. Then, upon clicking the generated link, the question - along with selected hexagrams and changing lines - will be delivered directly to the chatbot. And there the personalized advice will be offered.
 
 As much as ChatGPT operating behind Bing is (acting) smart, be aware that the interpretation of the hexagram might not match your personal situation totally, as software has no insights into your subconscious thoughts (that is, until Elon Musk will release his neuralinks... just kidding). That is why it is recommended to conduct the interpretation on your own, by reading descriptions of the selected hexagrams from websites I selected (or respected books, if you have them).
 
 PS. Comments are welcomed when it comes to refactoring the code. As this is my first project of that scale, I had to cut the corners to iterate faster and get accuracy in calculations. Naming variables can also be nicer ;-)
 
-PS2. Apparently the Bing AI modul is not always opening the browser, you need to copy-paste the code.
+PS2. Apparently the Bing AI modul is not always opening the browser, in that case you need to copy-paste the code.
 
 ## Receiving Consultation
 1. Type your question: Enter your specific query in the prompt to seek guidance from I Ching.
