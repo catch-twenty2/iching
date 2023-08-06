@@ -56,3 +56,7 @@ Asking the right question is crucial when consulting I Ching, as it can signific
 The effectiveness of consulting I Ching lies in the process of introspection and self-awareness it encourages. When approaching the answers with an open mind, it stimulates deep reflection, helping individuals tap into their subconscious thoughts and feelings. As they meditate on the symbols and interpretations, they gain fresh perspectives and insights that may not have been apparent on the surface. I Ching acts as a mirror, reflecting the seeker's inner thoughts, emotions, and values, leading to a more profound understanding of themselves and their situation.
 
 Let the wisdom of I Ching be your trusted companion, guiding you towards a deeper understanding of yourself, your decisions, and the world around you. Embrace this ancient oracle as a source of inspiration and reflection, and you will find its timeless teachings unfolding new dimensions of insight and self-awareness. 
+
+
+![The creation of "yin yang" and "Bagua" (a); the "Taiji" symbol (b).](iching_creation.png)
+[source](https://www.researchgate.net/figure/The-creation-of-yin-yang-and-Bagua-a-the-Taiji-symbol-b_fig1_349717685)
