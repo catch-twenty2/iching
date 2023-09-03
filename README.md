@@ -1,6 +1,10 @@
 # I Ching
 
-[click "Open in Colab" to run the code from Google Colaboratory](https://github.com/catch-twenty2/iching/blob/main/iching.ipynb)
+*read my article to get more insights on I Ching: 
+[A Matter of Change](https://www.linkedin.com/pulse/matter-change-enhancing-resilience-embracing-i-ching-michael-talarek)
+
+*[click on "Open in Colab" to run the code from Google Colaboratory](https://github.com/catch-twenty2/iching/blob/main/iching.ipynb)
+
 
 > *Still breathing? Now we gotta make the best of it, improvise,* <br>
 > ***adapt to the environment, Darwin, shit happens, I Ching***, <br>
@@ -57,6 +61,6 @@ The effectiveness of consulting I Ching lies in the process of introspection and
 
 Let the wisdom of I Ching be your trusted companion, guiding you towards a deeper understanding of yourself, your decisions, and the world around you. Embrace this ancient oracle as a source of inspiration and reflection, and you will find its timeless teachings unfolding new dimensions of insight and self-awareness. 
 
-
 ![The creation of "yin yang" and "Bagua" (a); the "Taiji" symbol (b).](iching_creation.png)
+
 [source](https://www.researchgate.net/figure/The-creation-of-yin-yang-and-Bagua-a-the-Taiji-symbol-b_fig1_349717685)
