@@ -3,7 +3,7 @@
 *read my article to get more insights on I Ching: 
 [A Matter of Change](https://www.linkedin.com/pulse/matter-change-enhancing-resilience-embracing-i-ching-michael-talarek)
 
-*[click on "Open in Colab" to run the code from Google Colaboratory](https://colab.research.google.com/github/catch-twenty2/iching/blob/main/iching_two.ipynb)
+*[click to run the code from Google Colaboratory](https://colab.research.google.com/github/catch-twenty2/iching/blob/main/iching_two.ipynb)
 
 
 > *Still breathing? Now we gotta make the best of it, improvise,* <br>
