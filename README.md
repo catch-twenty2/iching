@@ -24,8 +24,6 @@ As much as ChatGPT operating behind Bing is (acting) smart, be aware that the in
 
 PS. Comments are welcomed when it comes to refactoring the code. As this is my first project of that scale, I had to cut the corners to iterate faster and get accuracy in calculations. Naming variables can also be nicer ;-)
 
-PS2. Apparently the Bing AI modul is not always opening the browser, in that case you need to copy-paste the code.
-
 ## Receiving Consultation
 1. Type your question: Enter your specific query in the prompt to seek guidance from I Ching.
 2. Your First Hexagram: The initial reading will present your current situation in the form of a hexagram. Each line represents a certain aspect of your query, and it will be indicated which lines are changed if at all.
